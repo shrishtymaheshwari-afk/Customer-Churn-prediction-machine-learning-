@@ -71,4 +71,4 @@ Evaluation metrics used:
 -Monthly Charges vs Churn Boxplot
 -Confusion Matrix Heatmap
 
-project link here-(<prediction customer churn logistic regression ml project.ipynb>)
+project link here-[View Project on GitHub](<prediction customer churn logistic regression ml project.ipynb>)
